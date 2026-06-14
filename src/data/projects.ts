@@ -22,7 +22,7 @@ export const projects: Project[] = [
       "A next-generation cybersecurity solution combining AI, machine learning, and cyber defense strategies to identify threats, predict malicious activities, and enable proactive incident response.",
     techStack: ["Python", "FastAPI", "Scikit-Learn", "Threat Intelligence APIs"],
     githubUrl: "https://github.com/",
-    liveUrl: "https://example.com/",
+    liveUrl: "https://a2sentinel.vercel.app/",
     imageLabel: "AI Cyber Defense",
     image: "/projects/cyber-defense.png",
     highlights: [
@@ -67,7 +67,7 @@ export const projects: Project[] = [
       "Cybersecurity-focused ML solution that detects malicious URLs and reduces phishing risk.",
     techStack: ["Machine Learning", "Python", "Flask", "Feature Engineering"],
     githubUrl: "https://github.com/AsadAbbasdev/Phishing-URL-Detection-using-ML",
-    liveUrl: "https://example.com/",
+    liveUrl: "https://phishing-url-detector-webapp.streamlit.app/",
     imageLabel: "Phishing Detection",
     image: "/projects/phishing-detection.png",
     highlights: [
@@ -81,8 +81,8 @@ export const projects: Project[] = [
     description:
       "Predictive healthcare application that estimates heart disease risk through trained ML models.",
     techStack: ["Scikit-Learn", "Python", "Data Analysis", "Model Evaluation"],
-    githubUrl: "https://github.com/",
-    liveUrl: "https://example.com/",
+    githubUrl: "https://github.com/AsadAbbasdev/CardioAI-Heart-Disease-prediction-WebApp",
+    liveUrl: "https://cardioai-heart-disease-prediction-webapp.streamlit.app/",
     imageLabel: "Heart Disease ML",
     image: "/projects/heart-disease.png",
     highlights: [
