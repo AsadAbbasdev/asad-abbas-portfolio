@@ -36,7 +36,7 @@ export const projects: Project[] = [
     description:
       "Voice-enabled AI assistant with natural language interaction and task execution capabilities.",
     techStack: ["Python", "NLP", "Speech Processing", "LLMs"],
-    githubUrl: "https://github.com/",
+    githubUrl: "https://github.com/AsadAbbasdev/khan-ai-assistant-fyp",
     liveUrl: "https://example.com/",
     imageLabel: "Voice Assistant",
     image: "/projects/voice-assistant.png",
@@ -52,7 +52,7 @@ export const projects: Project[] = [
       "AI-powered image classification system for crop disease detection and agricultural decision support.",
     techStack: ["TensorFlow", "Computer Vision", "Python", "Deep Learning"],
     githubUrl: "https://github.com/AsadAbbasdev/rice-disease-classifier-webapp",
-    liveUrl: "https://example.com/",
+    liveUrl: "https://rice-disease-classifier-webapp.vercel.app/",
     imageLabel: "Rice Disease AI",
     image: "/projects/rice-disease.png",
     highlights: [
