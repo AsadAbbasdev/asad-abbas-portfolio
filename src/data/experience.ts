@@ -3,7 +3,7 @@ import type { ExperienceItem } from "@/types/portfolio";
 export const experienceTimeline: ExperienceItem[] = [
   {
     role: "AI Engineer",
-    company: "A2 AI Labs",
+    company: "FAL Tech Academy",
     period: "Present",
     summary:
       "Designing and building production AI systems focused on LLMs, RAG pipelines, and business automation.",
@@ -16,11 +16,11 @@ export const experienceTimeline: ExperienceItem[] = [
       "Delivering AI-powered and full-stack solutions for clients, startups, and product teams.",
   },
   {
-    role: "Founder",
-    company: "A2 AI Labs",
-    period: "Growth Stage",
+    role: "AI Instructor",
+    company: "FAL Tech Academy",
+    period: "Present",
     summary:
-      "Leading product direction, engineering execution, and scalable AI architecture decisions.",
+      "Teaching artificial intelligence concepts and guiding learners through practical, project-based applications. Supporting students as they build foundational skills in AI and develop confidence applying these technologies to real-world challenges.",
   },
   {
     role: "AI Project Builder",
